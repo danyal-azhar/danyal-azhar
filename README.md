@@ -7,6 +7,9 @@ I'm a passionate DevOps/SRE engineer with a knack for automating processes and e
 - **Programming Languages:** Python, learning Go
 - **Testing Tools and Frameworks:** Selenium, Pytest, Behave (BDD), Cypress, Playwright
 - **Cloud Technologies:** AWS
+- **Infrastructure as Code (IaC):** Terraform, Terragrunt
+- **CI/CD Tools:** GitHub Actions, Jenkins, AWS CodePipeline, Bitbucket Pipeline
+
 - **Containerization & Orchestration:** Docker, Kubernetes
 - **Databases:** MySQL
 
