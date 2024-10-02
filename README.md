@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hi there! I'm Danyal Azhar
+🌟 DevOps/SRE Engineer
+I'm a passionate DevOps/SRE engineer with a knack for automating processes and enhancing system reliability. I have a strong foundation in Python and I'm currently diving into Go to broaden my skill set.
 
-<!--
-**danyal-azhar/danyal-azhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Skills
+Programming Languages: Python, learning Go
+Testing Tools and Frameworks: Selenium, Pytest, Behave (BDD), Cypress, Playwright
+Cloud Technologies: AWS
+Containerization & Orchestration: Docker, Kubernetes
+Databases: MySQL
+🚀 Current Focus
+I'm continuously learning and exploring best practices in cloud infrastructure and automation to deliver robust solutions.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 Let's Connect
+Feel free to reach out if you'd like to collaborate or discuss tech!
